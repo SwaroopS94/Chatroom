@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.9",
+    "nodemon": "^1.18.6",
+    "socket.io": "^2.1.1"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
